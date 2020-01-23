@@ -1,8 +1,11 @@
-## Welcome to GitHub Pages
+## MCWS 开发规范手册
 
-You can use the [editor on GitHub](https://github.com/mcpews/Rules/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+本项目出于维护MCWS环境秩序之目的，故制定有关开发MCWS时需注意内容，旨在规范各开发者的内容及行为。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+在下方内容中，我们会进行这些讨论与规范制定：
+1. 可以做什么
+2. 不能做什么
+3. 设计的规范
 
 ### Markdown
 
